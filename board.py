@@ -1,5 +1,5 @@
 def PrintTheBoard(arr):
-    print("Printing board")
+    print("Printing board..")
     for i in range(3):
         print(arr[i])
 
